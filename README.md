@@ -7,6 +7,7 @@ API RESTful para acompanhamento de desempenho academico, com estruturas de dados
 - Java 21+
 - Maven 3.9+
 - Docker e Docker Compose
+- RabbitMQ
 
 ## Executar
 
